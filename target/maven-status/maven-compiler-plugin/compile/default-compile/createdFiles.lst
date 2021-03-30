@@ -1,0 +1,7 @@
+org\example\webapp\MyServletTest.class
+org\example\webapp\dto\UserResponse.class
+org\example\webapp\dto\User.class
+org\example\webapp\MyServlet$1.class
+org\example\webapp\MyServletTest$1.class
+org\example\webapp\JsonServlet.class
+org\example\webapp\MyServlet.class
